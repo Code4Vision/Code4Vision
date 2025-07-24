@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/yubraj-kurmi-77701b29a/)])
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devmaestrohq)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=web)](https://yuvrajkurmi.onrender.com)
-[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail)](mailto:devmaestrohq@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail)](mailto:developerrajir@gmail.com)
 
 </div>
 
