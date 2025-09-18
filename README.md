@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/yuvrajkurmi03">
-    <img src="https://img.shields.io/github/followers/yuvrajkurmi03?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/code4vision?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://yuvrajkurmi.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=google-chrome" alt="Portfolio" />
