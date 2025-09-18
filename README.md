@@ -1,333 +1,120 @@
-<!--
-     ███████╗██╗   ██╗██╗   ██╗██████╗ ██████╗  █████╗      ██╗   ██╗██╗   ██╗██╗   ██╗██████╗ ███╗   ██╗████████╗
-     ██╔════╝██║   ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗     ██║   ██║██║   ██║██║   ██║██╔══██╗████╗  ██║╚══██╔══╝
-     █████╗  ██║   ██║██║   ██║██████╔╝██████╔╝███████║     ██║   ██║██║   ██║██║   ██║██████╔╝██╔██╗ ██║   ██║   
-     ██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ██╔══██╗██╔══██║     ╚██╗ ██╔╝██║   ██║██║   ██║██╔═══╝ ██║╚██╗██║   ██║   
-     ███████╗ ╚████╔╝ ╚██████╔╝██║     ██║  ██║██║  ██║      ╚████╔╝ ╚██████╔╝╚██████╔╝██║     ██║ ╚████║   ██║   
-     ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝       ╚═══╝   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝  ╚═══╝   ╚═╝   
--->
+# 👋 Hi, I'm Code4Vision
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuvraj!;A+passionate+developer.;Loves+clean%2C+efficient%2C+maintainable+code." alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Code4Vision&fontSize=50&fontColor=ffffff)
 
-<p align="center">
-  <a href="https://github.com/yuvrajkurmi03">
-    <img src="https://img.shields.io/github/followers/code4vision?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://yuvrajkurmi.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=google-chrome" alt="Portfolio" />
-  </a>
-  <a href="mailto:yuvrajkurmi03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" />
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yuvrajkurmi03&style=flat-square&color=brightgreen">
-</p>
+I am a **Full-Stack Developer** and **Graphic Designer** passionate about creating **beautiful, functional, and scalable solutions**.  
+I combine **clean code**, **modern design**, and **creative problem-solving** to turn ideas into reality.  
+
+![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 
 ---
 
-<!-- Profile Overview -->
+## 💡 About Me
+
+- 🌱 I’m constantly learning **Python, C, C++, JavaScript, React, Node.js**  
+- 🎨 Experienced in **Photoshop, Illustrator, Figma** for UI/UX and digital art  
+- 💼 I enjoy building **real-world web applications** and **interactive designs**  
+- 🚀 My mission: To create tech solutions that are **efficient, scalable, and visually stunning**
+
+---
+
+## 💻 Featured Projects
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
+### [Portfolio Website](https://code4vision.onrender.com/)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-# 𝚈𝚞𝚟𝚛𝚊𝚓
+- **Frontend:** React, HTML, CSS, responsive design  
+- **Backend:** Node.js, Python for APIs and logic  
+- Fully designed with **modern UI/UX principles**  
+![Website GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
-**Passionate about creating robust, scalable, and maintainable solutions.**
+### [Interactive Dashboard](#)
+<img src="https://img.shields.io/badge/Tech-Stack-FF4500?style=for-the-badge" />
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- Data visualization and analytics dashboard  
+- **Real-time updates**, interactive charts, and graphs  
+- Link: [GitHub](#) | [Live Demo](#)
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=flat&logo=google-chrome)](https://yuvrajkurmi.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yuvrajkurmi03-181717?style=flat&logo=github)](https://github.com/yuvrajkurmi03)
-[![Hire Me](https://img.shields.io/badge/Available%20for-Hire-brightgreen?style=flat&logo=freelancer)](mailto:yuvrajkurmi03@gmail.com)
+### [Design Portfolio](#)
+<img src="https://img.shields.io/badge/Tech-Stack-1769FF?style=for-the-badge" />
+
+- UI/UX designs, branding, and digital artwork  
+- Focused on **user experience and modern aesthetics**  
+- Link: [Behance](#) | [Dribbble](#)
 
 </div>
 
 ---
 
-## 🎨 &nbsp;**About Me**
+## 🛠️ Skills & Technologies
 
-```yaml
-name: 𝙳𝚎𝚟𝚈𝚞𝚟𝚛𝚊𝚓
-bio: >
-  👋 Hi, I'm Yuvraj—a passionate developer focused on writing clean, efficient,
-  and maintainable code.
-portfolio: "https://yuvrajkurmi.onrender.com/"
-hireable: true
-location: "🌍 Earth"
-languages:
-  - JavaScript
-  - TypeScript
-  - Python
-  - C++
-frameworks:
-  - React
-  - Node.js
-  - Express
-  - Next.js
-databases:
-  - MongoDB
-  - PostgreSQL
-  - MySQL
-tools:
-  - Git
-  - Docker
-  - VS Code
-  - Linux
-  - REST APIs
-  - GraphQL
-```
+<div align="center">
+
+### Development
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Design
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
 
 ---
 
-## 🧑‍💻 &nbsp;**My Philosophy**
+## 🧠 Inspirations & Tech Quotes
 
-> I write code that’s not only functional but also elegant and easy to maintain.  
-> I believe in continuous learning, collaboration, and sharing knowledge with the community.
+<div align="center">
 
----
+> "Programs must be written for people to read, and only incidentally for machines to execute." – **Harold Abelson**  
+>  
+> "Simplicity is the soul of efficiency." – **Austin Freeman**  
+>  
+> "First, solve the problem. Then, write the code." – **John Johnson**  
+>  
+> "Good design adds value faster than it adds cost." – **Thomas C. Gale**  
 
-## 🛠️ &nbsp;**Tech Stack**
+![Developer GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,nodejs,express,mongodb,postgres,mysql,graphql,docker,git,linux,vscode" />
-</p>
-
----
-
-## 📊 &nbsp;**GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajkurmi03&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajkurmi03&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajkurmi03&theme=dracula&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🚩 &nbsp;**Featured (Pinned) Projects**
+## 🌐 Connect with Me
 
-> *Results below show your most popular/significant repositories. There are 36 repositories in total. [View all on GitHub](https://github.com/search?q=user:yuvrajkurmi03&sort=stars&order=desc).*
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/yuvrajkurmi03/yuvrajkurmi03">yuvrajkurmi03</a></h4>
-      <p align="center">
-        <img src="https://placehold.co/300x180/1e1e2e/ff79c6?text=yuvrajkurmi03" width="90%" />
-      </p>
-      <p align="center">Personal profile/README repository.</p>
-      <p align="center">
-        <a href="https://github.com/yuvrajkurmi03/yuvrajkurmi03"><img src="https://img.shields.io/badge/Repo-GitHub-black?logo=github"></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/yuvrajkurmi03/StreamVerse">StreamVerse</a></h4>
-      <p align="center">
-        <img src="https://placehold.co/300x180/1e1e2e/ffb86c?text=StreamVerse" width="90%" />
-      </p>
-      <p align="center">Streaming platform application.</p>
-      <p align="center">
-        <a href="https://github.com/yuvrajkurmi03/StreamVerse"><img src="https://img.shields.io/badge/Repo-GitHub-black?logo=github"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/yuvrajkurmi03/Text1">Text1</a></h4>
-      <p align="center">
-        <img src="https://placehold.co/300x180/1e1e2e/50fa7b?text=Text1" width="90%" />
-      </p>
-      <p align="center">Text utility or manipulation project.</p>
-      <p align="center">
-        <a href="https://github.com/yuvrajkurmi03/Text1"><img src="https://img.shields.io/badge/Repo-GitHub-black?logo=github"></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/yuvrajkurmi03/CodePulse">CodePulse</a></h4>
-      <p align="center">
-        <img src="https://placehold.co/300x180/1e1e2e/8be9fd?text=CodePulse" width="90%" />
-      </p>
-      <p align="center">Project for code monitoring or insights.</p>
-      <p align="center">
-        <a href="https://github.com/yuvrajkurmi03/CodePulse"><img src="https://img.shields.io/badge/Repo-GitHub-black?logo=github"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/yuvrajkurmi03/web">web</a></h4>
-      <p align="center">
-        <img src="https://placehold.co/300x180/1e1e2e/6272a4?text=web" width="90%" />
-      </p>
-      <p align="center">Web development experiments.</p>
-      <p align="center">
-        <a href="https://github.com/yuvrajkurmi03/web"><img src="https://img.shields.io/badge/Repo-GitHub-black?logo=github"></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/yuvrajkurmi03/projects">projects</a></h4>
-      <p align="center">
-        <img src="https://placehold.co/300x180/1e1e2e/ff5555?text=projects" width="90%" />
-      </p>
-      <p align="center">Miscellaneous project collection.</p>
-      <p align="center">
-        <a href="https://github.com/yuvrajkurmi03/projects"><img src="https://img.shields.io/badge/Repo-GitHub-black?logo=github"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://code4vision.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yuvrajkurmi03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🚀 &nbsp;**What I’m Working On**
+## ✨ Footer
 
-- Building scalable web applications with modern JavaScript frameworks.
-- Exploring advanced backend architectures and cloud-native solutions.
-- Learning about AI, ML, and data-driven applications.
-- Contributing to open-source projects and collaborating with other developers.
-
----
-
-## 📚 &nbsp;**Recent Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Write Clean, Maintainable Code](https://yuvrajkurmi.onrender.com/blog/clean-code)
-- [Getting Started with Docker for Developers](https://yuvrajkurmi.onrender.com/blog/docker-basics)
-- [REST vs GraphQL: Choosing the Right API](https://yuvrajkurmi.onrender.com/blog/rest-vs-graphql)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 &nbsp;**My Principles**
-
-- **Simplicity**: Simple code is maintainable code.
-- **Readability**: Code is read more often than it is written.
-- **Efficiency**: Optimize for clarity and performance.
-- **Testing**: Test early, test often.
-- **Documentation**: Good docs save time for everyone.
-
----
-
-## 🌏 &nbsp;**Let's Connect!**
-
-<p align="center">
-  <a href="https://github.com/yuvrajkurmi03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://yuvrajkurmi.onrender.com"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:yuvrajkurmi03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-## 🏅 &nbsp;**Achievements**
-
-- 🏆 **17+ Public Repositories**
-- 🧑‍💼 **Open for Hire**
-- 🫂 **5+ Followers**
-- 💡 **Continuous Learner & Innovator**
-
----
-
-## 🔥 &nbsp;**My GitHub Contributions**
-
-<p align="center">
-  <img src="https://github-readme-heatmap.vercel.app/graph?username=yuvrajkurmi03&theme=dracula" height="200"/>
-</p>
-
----
-
-## 📝 &nbsp;**My Workflow**
-
-```mermaid
-graph TD
-   A[Problem] --> B{Breakdown}
-   B --> C[Research]
-   C --> D[Design]
-   D --> E[Code]
-   E --> F[Test]
-   F --> G[Review]
-   G --> H[Document]
-   H --> I[Ship 🚀]
-```
-
----
-
-## 💬 &nbsp;**Quotes I Live By**
-
-> “First, solve the problem. Then, write the code.” – John Johnson  
-> “Simplicity is the soul of efficiency.” – Austin Freeman  
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde  
-> “Clean code always looks like it was written by someone who cares.” – Michael Feathers  
-
----
-
-## 🧩 &nbsp;**Fun Facts**
-
-- I love debugging and solving complex problems.
-- I believe in the power of open-source.
-- I enjoy learning new things every day.
-- I take pride in clean, elegant code.
-
----
-
-## 📦 &nbsp;**More About Me**
-
-<details>
-  <summary>🌱 Current Learning</summary>
-  <ul>
-    <li>Advanced React patterns</li>
-    <li>GraphQL & Apollo</li>
-    <li>Docker and Kubernetes</li>
-    <li>Microservices Architecture</li>
-  </ul>
-</details>
-
-<details>
-  <summary>🛠️ Development Tools</summary>
-  <ul>
-    <li>VS Code</li>
-    <li>Figma</li>
-    <li>Postman</li>
-    <li>Insomnia</li>
-    <li>Linux Terminal</li>
-  </ul>
-</details>
-
-<details>
-  <summary>👨‍💻 Coding Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajkurmi03&layout=compact&theme=radical" />
-</details>
-
----
-
-## 🖼️ &nbsp;**Random Dev Meme**
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="350"/>
-</p>
-
----
-
-## 🕒 &nbsp;**Last Updated**
-
-> This README is generated and updated regularly!
-
----
-
-<p align="center"><i>Thanks for visiting! If you like my work, let's connect and collaborate.</i></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" />
-</p>
-
----
-
-## 🌟 &nbsp;**A Beautiful Tech Quote to End With**
-
-<p align="center" style="font-size:1.5em;">
-  <strong>"The best way to predict the future is to invent it." – Alan Kay</strong>
-</p>
+<div align="center">
+  <p><em>"Code is poetry, design is its rhythm – together they create magic." 💻🎨</em></p>
+  <p><em>Profile README crafted solely by Code4Vision</em></p>
+</div>
